@@ -1,0 +1,9 @@
+D:\WORKSPACE\C#\AutoShutDownForThai_Version1\AutoShutDownForThai_Version1\bin\Debug\AutoShutDownForThai_Version1.exe.config
+D:\WORKSPACE\C#\AutoShutDownForThai_Version1\AutoShutDownForThai_Version1\bin\Debug\AutoShutDownForThai_Version1.exe
+D:\WORKSPACE\C#\AutoShutDownForThai_Version1\AutoShutDownForThai_Version1\bin\Debug\AutoShutDownForThai_Version1.pdb
+D:\WORKSPACE\C#\AutoShutDownForThai_Version1\AutoShutDownForThai_Version1\obj\Debug\AutoShutDownForThai_Version1.csprojResolveAssemblyReference.cache
+D:\WORKSPACE\C#\AutoShutDownForThai_Version1\AutoShutDownForThai_Version1\obj\Debug\AutoShutDownForThai_Version1.FormMain.resources
+D:\WORKSPACE\C#\AutoShutDownForThai_Version1\AutoShutDownForThai_Version1\obj\Debug\AutoShutDownForThai_Version1.Properties.Resources.resources
+D:\WORKSPACE\C#\AutoShutDownForThai_Version1\AutoShutDownForThai_Version1\obj\Debug\AutoShutDownForThai_Version1.csproj.GenerateResource.Cache
+D:\WORKSPACE\C#\AutoShutDownForThai_Version1\AutoShutDownForThai_Version1\obj\Debug\AutoShutDownForThai_Version1.exe
+D:\WORKSPACE\C#\AutoShutDownForThai_Version1\AutoShutDownForThai_Version1\obj\Debug\AutoShutDownForThai_Version1.pdb
